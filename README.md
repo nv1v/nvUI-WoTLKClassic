@@ -32,8 +32,8 @@ An addon that tries to be as minimal as "necessary". This addon will statically 
 ## Installation
 1. Download latest release ([Releases](https://github.com/nv1v/nvUI-WoTLKClassic/releases))
 2. Extract folder from release
-3. Delete ReadMe.md
-4. Move add-on(s) to AddOns folder in WoW Directory (e.g `C:/ProgramFiles/WorldofWarcraft/_classic/Interface/AddOns/`)
+3. Open the folder and delete README.md
+4. Move add-on(s) in the folder to your WoW AddOns folder in the WoW Directory (e.g `C:/ProgramFiles/WorldofWarcraft/_classic/Interface/AddOns/`)
 5. Login to WoW and enable the add-ons from the Addons or Interface menu.
 
 ### Other AddOns
