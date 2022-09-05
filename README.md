@@ -5,6 +5,13 @@
 ## Summary
 > Custom add-ons created and used by Nviv for World of Warcraft: Wrath of the Lich King Classic. These add-ons or variantions of them have been used throughout Burning Crusade Classic & Live Shadowlands (not included here) and are in mostly working conditions.
 
+## Installation
+1. Download latest release [Releases](https://github.com/nv1v/nvUI-WoTLKClassic/releases)
+2. Extract folder from release
+3. Delete ReadMe.md
+4. Move add-on(s) to AddOns folder in WoW Directory (e.g `C:/ProgramFiles/WorldofWarcraft/_classic/Interface/AddOns/`)
+5. Login to WoW and enable the add-ons from the Addons or Interface menu.
+
 ## Features
 An addon that statically adjusts the position and opacity of the default UI elements. Some of these elments include:  
 - Unit Frames(Player, Target, TargetofTarget, Class Coloring)
