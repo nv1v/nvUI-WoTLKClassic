@@ -13,7 +13,7 @@
 5. Login to WoW and enable the add-ons from the Addons or Interface menu.
 
 ## Features
-An addon that statically adjusts the position and opacity of the default UI elements. Some of these elments include:  
+An addon that tries to be as minimal as "necessary". This addon will statically adjust the position, opacity and scale of elements in the default user interface. This may include the following:
 - Unit Frames(Player, Target, TargetofTarget, Class Coloring)
 - Player Cast Bars(Scale, Remove Border/Clean)
 - MiniMap(Enable Mouse-wheel Zoom, Opacity)
