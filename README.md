@@ -6,7 +6,7 @@
 > Custom add-ons created and used by Nviv for World of Warcraft: Wrath of the Lich King Classic. These add-ons or variantions of them have been used throughout Burning Crusade Classic & Live Shadowlands (not included here) and are in mostly working conditions.
 
 ## Installation
-1. Download latest release [Releases](https://github.com/nv1v/nvUI-WoTLKClassic/releases)
+1. Download latest release ([Releases](https://github.com/nv1v/nvUI-WoTLKClassic/releases))
 2. Extract folder from release
 3. Delete ReadMe.md
 4. Move add-on(s) to AddOns folder in WoW Directory (e.g `C:/ProgramFiles/WorldofWarcraft/_classic/Interface/AddOns/`)
