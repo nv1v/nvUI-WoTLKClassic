@@ -37,7 +37,8 @@ An addon that tries to be as minimal as "necessary". This addon will statically 
 5. Login to WoW and enable the add-ons from the Addons or Interface menu.
 
 ### Other AddOns
-> These addons maintain a default / blizz-like aethesetic or have quality-of-life value which makes them preferred to download separately and use with nvUI. The other addons and what they are for listed below:
+> These addons maintain a default / blizz-like aethesetic or have quality-of-life value and are preferred to use with nvUI. These add-ons are not included in the release here and will need to be downloaded separately, such as from CurseForge.
+> Other:
 ```
 - Auctionator (buying/selling on the AH)
 - BadBoy (block spam in server chats)
