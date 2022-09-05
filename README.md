@@ -36,6 +36,10 @@ An addon that tries to be as minimal as "necessary". This addon will statically 
 4. Move addons in the folder to your WoW "AddOns" folder in the WoW Directory (e.g `C:/ProgramFiles/WorldofWarcraft/_classic/Interface/AddOns/`)
 5. Login to WoW and enable the addons from the Addons or Interface menu.
 
+## Misc
+- Plater Profile ([Pastebin](https://pastebin.com/bFTzJnA4))
+- Details! Profile ([Pastebin](https://pastebin.com/XNsaLMyz))
+
 ### Other AddOns
 > These addons maintain a default / blizz-like aethesetic or have quality-of-life value and are preferred to use with nvUI. These addons are not included in the release here and will need to be downloaded separately from somewhere like CurseForge.
 > Preferred Addons:
