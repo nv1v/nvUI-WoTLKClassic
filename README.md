@@ -5,13 +5,6 @@
 ## Summary
 > Custom add-ons created and used by Nviv for World of Warcraft: Wrath of the Lich King Classic. These add-ons or variantions of them have been used throughout Burning Crusade Classic & Live Shadowlands (not included here) and are in mostly working conditions.
 
-## Installation
-1. Download latest release ([Releases](https://github.com/nv1v/nvUI-WoTLKClassic/releases))
-2. Extract folder from release
-3. Delete ReadMe.md
-4. Move add-on(s) to AddOns folder in WoW Directory (e.g `C:/ProgramFiles/WorldofWarcraft/_classic/Interface/AddOns/`)
-5. Login to WoW and enable the add-ons from the Addons or Interface menu.
-
 ## Features
 An addon that tries to be as minimal as "necessary". This addon will statically adjust the position, opacity and scale of elements in the default user interface. This may include the following:
 - Unit Frames(Player, Target, TargetofTarget, Class Coloring)
@@ -31,9 +24,36 @@ An addon that tries to be as minimal as "necessary". This addon will statically 
 - The core.lua scripts for each add-on are fairly well commented and position/opacity variables can be lightly adjusted.
 - The core.lua scripts have a "verbosemode" variable that is set to 1 by default. Set this to 0 to prevent output to the console at login.
     
-## 🄳🄸🅂🄲🄻🄰🄸🄼🄴🅁 
+## Disclaimer 
 - I use UI Scale on the lowest setting and recommend doing the same if using these addons... (Settings > System > Advanced > UI Scale)
 - Most changes are made to my personal tastes, and may or may not be useful to others.
 - These add-ons were tested and work with my version of WoW. YMMV.
 
-Good luck! o7   -Nviv
+## Installation
+```
+1. Download latest release ([Releases](https://github.com/nv1v/nvUI-WoTLKClassic/releases))
+2. Extract folder from release
+3. Delete ReadMe.md
+4. Move add-on(s) to AddOns folder in WoW Directory (e.g `C:/ProgramFiles/WorldofWarcraft/_classic/Interface/AddOns/`)
+5. Login to WoW and enable the add-ons from the Addons or Interface menu.
+```
+
+### Other AddOns
+> Various other add-ons that are not authored or maintained by Nviv are used to complete nvUI but are not included in the releases here. These addons maintain a default / blizz-like aethesetic or have quality-of-life value which is why I like them. The other addons and what they are / how I use them are listed below:
+- Auctionator (buying/selling on the AH)
+- BadBoy (block spam in server chats)
+- BasicChatMods (minimal-ify chat window)
+- Details! (damage/healing/other meters)
+- Leatrix Maps (world map tweaks, may not be needed with Mapster(?))
+- Leatrix Plus (general UI and QoL tweaks)
+- Mapster (Map Addon)
+- MinimapButtonButton (places all addon buttons on minimap into single collapsable button)
+- ModernFrameFont (cleans up font used in unitframes and elsewhere)
+- PixelPerfectAlign (toggle grid to help align UI elements, type "/ppa show")
+- Plater (nameplates customization)
+- Questie (quest tracking / assistant)
+- tdBag2 (blizz-like one-bag)
+- tdInspect (long distance inspect)
+- tdPack2 (button to auto-sort tdBag2)
+- Vendor Price (shows vendor price of items in tooltip)
+- WeakAuras (cooldowns tracking)
