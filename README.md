@@ -3,7 +3,7 @@
 - Updated: Sep 9, 2022
 
 ## Summary
-Custom add-ons created and used by Nviv for World of Warcraft: Wrath of the Lich King Classic. These add-ons or variantions of them have been used throughout Burning Crusade Classic & Live Shadowlands (not included here) and are in mostly working conditions.
+> Custom add-ons created and used by Nviv for World of Warcraft: Wrath of the Lich King Classic. These add-ons or variantions of them have been used throughout Burning Crusade Classic & Live Shadowlands (not included here) and are in mostly working conditions.
 
 ## Features
 An addon that statically adjusts the position and opacity of the default UI elements. Some of these elments include:  
@@ -29,4 +29,4 @@ An addon that statically adjusts the position and opacity of the default UI elem
 - Most changes are made to my personal tastes, and may or may not be useful to others.
 - These add-ons were tested and work with my version of WoW. YMMV.
 
-Good luck! .o7
+Good luck! o7   -Nviv
