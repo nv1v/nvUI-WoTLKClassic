@@ -37,8 +37,7 @@ An addon that tries to be as minimal as "necessary". This addon will statically 
 5. Login to WoW and enable the add-ons from the Addons or Interface menu.
 
 ### Other AddOns
-> Various other add-ons that are not authored or maintained by Nviv are used to complete nvUI but are not included in the releases here. These addons maintain a default / blizz-like aethesetic or have quality-of-life value which makes them preferred. 
-> The other addons and what they are for listed below:
+> These addons maintain a default / blizz-like aethesetic or have quality-of-life value which makes them preferred to download separately and use with nvUI. The other addons and what they are for listed below:
 ```
 - Auctionator (buying/selling on the AH)
 - BadBoy (block spam in server chats)
