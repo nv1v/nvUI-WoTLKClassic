@@ -32,7 +32,7 @@ An addon that statically adjusts the position and opacity of the default UI elem
 - The core.lua scripts have a "verbosemode" variable that is set to 1 by default. Set this to 0 to prevent output to the console at login.
     
 ## 🄳🄸🅂🄲🄻🄰🄸🄼🄴🅁 
-- I use UI Scale 0.6 and recommend doing the same if using these addons...
+- I use UI Scale on the lowest setting and recommend doing the same if using these addons... (Settings > System > Advanced > UI Scale)
 - Most changes are made to my personal tastes, and may or may not be useful to others.
 - These add-ons were tested and work with my version of WoW. YMMV.
 
