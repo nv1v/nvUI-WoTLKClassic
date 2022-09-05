@@ -1,6 +1,6 @@
 # nvUI-WoTLKClassic  
-Author: Nviv
-Last Updated: Sep 9, 2022   
+- Author: Nviv    
+- Updated: Sep 9, 2022
 
 ## Summary
 Custom add-ons created and used by Nviv for World of Warcraft: Wrath of the Lich King Classic. These add-ons or variantions of them have been used throughout Burning Crusade Classic & Live Shadowlands (not included here) and are in mostly working conditions.
@@ -24,9 +24,9 @@ An addon that statically adjusts the position and opacity of the default UI elem
 - The core.lua scripts for each add-on are fairly well commented and position/opacity variables can be lightly adjusted.
 - The core.lua scripts have a "verbosemode" variable that is set to 1 by default. Set this to 0 to prevent output to the console at login.
     
-## 🄳🄸🅂🄲🄻🄰🄸🄼🄴🅁 
+### 🄳🄸🅂🄲🄻🄰🄸🄼🄴🅁 
 - I use UI Scale 0.6 and recommend doing the same if using these addons...
 - Most changes are made to my personal tastes, and may or may not be useful to others.
-- Things in this addon works for me but may not work for you. YMMV.
+- These add-ons were tested and work with my version of WoW. YMMV.
 
 Good luck! .o7
